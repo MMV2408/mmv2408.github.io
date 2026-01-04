@@ -2,7 +2,7 @@
 layout: page
 title: design 1 
 description: first project at school
-img: assets/img/12.jpg
+img: assets/img/design_1_project
 importance: 1
 category: school project
 related_publications: true
