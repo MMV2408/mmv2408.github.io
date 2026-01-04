@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Mike, born on August 24, 2001, and I live in Middenbeemster. I am currently a first-year Electrical Engineering (BSc) student at the HvA (Amsterdam University of Applied Sciences), and I really enjoy the program. 
+My name is Mike, born on August 24, 2001, and I live in Middenbeemster (NL). I am currently a first-year Electrical Engineering (BSc) student at the HvA (Amsterdam University of Applied Sciences), and I really enjoy the program. 
 
 This website is intended to showcase and track my progress as an electrical engineer. It serves as a personal portfolio and learning journal, where I document projects, experiments, and topics that interest me as I continue to develop my technical skills.
 
